@@ -1,3 +1,4 @@
+// Simple java program 
 package com.demo1.Snapdeal;
 
 import static org.junit.Assert.assertTrue;
